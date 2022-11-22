@@ -17,7 +17,7 @@ mkl-random==1.1.0
 mkl-service==2.3.0
 numpy==1.18.1
 opt-einsum==3.1.0
-Pillow==7.0.0
+Pillow==9.3.0
 protobuf==3.11.2
 psycopg2==2.8.4
 pyaml==19.12.0
